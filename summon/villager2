@@ -1,2 +1,8 @@
-/summon Villager ~ ~ ~ {Invulnerable:1,CustomName:_,Profession:2,Career:1,CareerLevel,4,
-Offers:{Recipes:[{buy:{id:iron_ingot,Count:1},sell:{id:coal,Count:5}},{buy:{id:gold_ingot,Count:1},sell:{id:iron_ingot,Count:5}},{buy:{id:diamond,Count:1},sell:{id:gold_ingot,Count:10}},{buy:{id:emerald,Count:1},sell:{id:diamond,Count:2}},sellB:{id:gold_ingot,Count:1},{buy:{id:quartz,Count:1},sell:{id:emerald,Count,2}},{buy:{id:nether_star,Count:1},sell:{id:quartz,Count:5}},
+/summon Villager ~-1 ~ ~ {Invulnerable:1,CustomName:James,Profession:2,Career:1,CareerLevel:4,Offers:{Recipes:[
+{buy:{id:265,Count:1},sell:{id:263,Count:5}},
+{buy:{id:266,Count:1},sell:{id:265,Count:5}},
+{buy:{id:264,Count:1},sell:{id:266,Count:10}},
+{buy:{id:388,Count:1},sell:{id:264,Count:2}},
+{buy:{id:406,Count:1},sell:{id:388,Count:2}},
+{buy:{id:399,Count:1},sell:{id:406,Count:5}}
+]}}

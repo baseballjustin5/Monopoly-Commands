@@ -1,4 +1,4 @@
 summon-villager
 ===============
 
-/summon Vilager command
+/summon Villager command

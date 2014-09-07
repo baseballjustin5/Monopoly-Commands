@@ -1,8 +1,7 @@
 /summon Villager ~-1 ~ ~ {Invulnerable:1,CustomName:James,Profession:2,Career:1,CareerLevel:4,Offers:{Recipes:[
 {buy:{id:265,Count:1},sell:{id:263,Count:5}},
-{buy:{id:266,Count:1},sell:{id:265,Count:5}},
-{buy:{id:264,Count:1},sell:{id:266,Count:10}},
-{buy:{id:388,Count:1},sell:{id:264,Count:2}},
+{buy:{id:266,Count:1},sell:{id:265,Count:2}},
+{buy:{id:264,Count:1},sell:{id:266,Count:2}},
 {buy:{id:406,Count:1},sell:{id:388,Count:2}},
 {buy:{id:399,Count:1},sell:{id:406,Count:5}}
 ]}}

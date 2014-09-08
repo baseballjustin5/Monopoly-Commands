@@ -1,4 +1,4 @@
-/summon Villager ~-1 ~ ~ {Invulnerable:1,CustomName:James,Profession:2,Career:1,CareerLevel:4,Offers:{Recipes:[
+/summon Villager ~-1 ~ ~ {Invulnerable:1,CustomName:Moneypenny,Profession:2,Career:1,CareerLevel:4,Offers:{Recipes:[
 {buy:{id:265,Count:1},sell:{id:263,Count:5}},
 {buy:{id:266,Count:1},sell:{id:265,Count:2}},
 {buy:{id:264,Count:1},sell:{id:266,Count:2}},

@@ -1,8 +1,8 @@
-/summon Villager ~ ~2 ~ {Invulnerable:1,CustomName:Lestrade,Profession:2,Career:1,CareerLevel:4,Offers:{Recipes:[
-{buy:{id:263,Count:5},sell:{id:265,Count:1}},
-{buy:{id:265,Count:2},sell:{id:266,Count:1}},
-{buy:{id:266,Count:2},sell:{id:264,Count:1}},
-{buy:{id:264,Count:2},buyB:{id:266,Count:1},sell:{id:388,Count:1}},
-{buy:{id:388,Count:2},sell:{id:406,Count:1}},
-{buy:{id:406,Count:5},sell:{id:399,Count:1}}
+/summon Villager ~ ~ ~ {Invulnerable:1,CustomName:Lestrade,Profession:2,Career:1,CareerLevel:4,Offers:{Recipes:[
+{buy:{id:coal,Count:5},sell:{id:iron_ingot,Count:1}},
+{buy:{id:iron_ingot,Count:5},sell:{id:gold_ingot,Count:1}},
+{buy:{id:gold_ingot,Count:10},sell:{id:diamond,Count:1}},
+{buy:{id:diamond,Count:2},buyB:{id:gold_ingot,Count:1},sell:{id:emerald,Count:1}},
+{buy:{id:emerald,Count:2},sell:{id:quartz,Count,1}},
+{buy:{id:quartz,Count:5},sell:{id:nether_star,Count:1}}
 ]}}

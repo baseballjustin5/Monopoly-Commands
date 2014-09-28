@@ -2,4 +2,42 @@ This is for a "GO TO JAIL" Community Chest Card
 
 /tp @p[m=0] 20.010 61 20.993
 
-/tellraw @a {"text":"","extra":[{"text":"Go To Jail, Go Directly to Jail, Do NOT Pass Go, Do not Collect $200"}]}
+/tellraw @a {"text":"","extra":[{"text":"
+&r Go To Jail, 
+&r Go Directly to Jail,
+&r Do &1&n&lNOT&r Pass Go, 
+Do not Collect $200"}]}
+
+/give @p written_book 1 0 {
+    title:"Community Chesy",
+    author:"Justin Hughes",
+    pages:[
+        "
+             Go to Jail
+        Go Directly to Jail
+              Do not
+              Pass Go
+          Do NoT Collect
+               $200
+    ",
+        "
+Page 2
+    ",
+        "
+Page 3
+    ",
+        "
+Etc.
+        "
+    ]
+}
+
+/give @p written_book 1 0 {
+title:"Chance",
+author:"Justin Hughes",
+pages:[
+    "Page 1",
+    "Page 2",
+    "Page 3",
+    "Etc."
+]

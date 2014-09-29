@@ -93,6 +93,44 @@ CC 7
        Matures
      Collect $100
     ",
+        "
+CC 8
+
+
+    
+    From Sale Of
+        Stock
+       You Get
+         $45
+    ",
+        "
+CC 9
+
+
+
+    Doctor's Fee
+      Pay $50
+    ",
+        "
+CC 10
+
+
+
+    Bank Error
+   In Your Favor
+   
+   Collect $200
+    ",
+        "
+CC 9
+
+
+
+        Life
+      Insurance
+       Matures
+     Collect $100
+    ",
     ]
 }
 

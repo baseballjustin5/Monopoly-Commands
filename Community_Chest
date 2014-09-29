@@ -120,6 +120,23 @@ CC 11
        Matures
      Collect $100
     ",
+        "
+CC 12
+
+
+
+         Pay
+       Hospital
+        $100
+    ",
+        "
+CC 13
+
+
+
+        Recieve
+      For Services
+        $25
     ]
 }
 

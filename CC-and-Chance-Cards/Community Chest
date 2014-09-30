@@ -9,7 +9,7 @@ This is for a "GO TO JAIL" Community Chest Card
 Do not Collect $200"}]}
 
 /give @p written_book 1 0 {
-    title:"Community Chesy",
+    title:"Community Chest",
     author:"Justin Hughes",
     pages:[
         "

@@ -1,0 +1,9 @@
+/give @p written_book 1 0 {
+title:"Chance",
+author:"Justin Hughes",
+pages:[
+    "Page 1",
+    "Page 2",
+    "Page 3",
+    "Etc."
+]

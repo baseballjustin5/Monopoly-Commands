@@ -10,7 +10,7 @@ Do not Collect $200"}]}
 
 /give @p written_book 1 0 {
     title:"Community Chest",
-    author:"Justin Hughes",
+    author:"Mr. Monopoly",
     pages:[
         "
 CC 1
@@ -179,13 +179,3 @@ CC 17
     "
     ]
 }
-
-/give @p written_book 1 0 {
-title:"Chance",
-author:"Justin Hughes",
-pages:[
-    "Page 1",
-    "Page 2",
-    "Page 3",
-    "Etc."
-]

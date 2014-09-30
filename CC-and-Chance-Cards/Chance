@@ -160,6 +160,25 @@ Chance 15
 
 
 
+    Take a Ride
+   On the Reading
+   If You pass Go
+    Collect $200
+    ",
+        "
+Chance 16
 
+
+
+    Advance Token
+  To Nearest Utility
+       
+ If Unowned you may buy
+    it from the Bank
+    
+   If Owned, throw dice and
+  pay owner a total ten times
+     the amount thrown
+        "
     ]
 }

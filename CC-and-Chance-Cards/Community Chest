@@ -143,15 +143,6 @@ CC 14
 
 
 
-        Recieve
-      For Services
-          $25
-    ",
-        "
-CC 15
-
-
-
         Get Out
       Of Jail Free
       
@@ -160,7 +151,7 @@ CC 15
      needed or sold
     ",
         "
-CC 16
+CC 15
 
 
 
@@ -170,12 +161,12 @@ CC 16
      Collect $20
     ",
         "
-CC 17
+CC 16
 
 
 
       You Inherit
           $100
-    "
+        "
     ]
 }

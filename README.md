@@ -1,4 +1,4 @@
-Mononpoly-Commands
-===============
+                             Monopoly Commands
+===============================================================================
 
-This is for a Monopoly game I am creating in Minecraft
+            This is for a Monopoly game I am creating in Minecraft

@@ -1,8 +1,11 @@
+Community Chest
+==============
 This tp and tellraw command is for a "GO TO JAIL" Community Chest Card
 
 /tp @p[m=0] 20.010 61 20.993
 
-/tellraw @a {"text":"","extra":[{"text":"
+/tellraw @a {"text":"","extra":
+[{"text":"
 &r Go To Jail, 
 &r Go Directly to Jail,
 &r Do &1&n&lNOT&r Pass Go, 

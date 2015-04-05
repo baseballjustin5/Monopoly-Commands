@@ -1,0 +1,18 @@
+setblock ~ ~1 ~ minecraft:mob_spawner 0 replace
+    {EntityId:
+        MinecartTNT,
+        SpawnData:
+            {TNTFuse:100,
+            Riding:{
+                id:"Bat",
+                Invulnerable:1,
+                Silent:1,
+                ActiveEffects:
+                    [{Id:14,
+                    Amplifier:5,
+                    Duration:1999999999999980,
+                    ShowParticles:0b}
+]
+}
+}
+}
